@@ -12,6 +12,6 @@
   - / -> with params(category,location, district), lsit activities
   - /recommend_me -> with params(category, range (10:00-20:00)) recomends the best activity in time range
 
-#TEST
+# TEST
   - I made a simple test suite for show you i know what is test, tdd, etc. but time is limited ;)
   - to run it: $ MONGOID_ENV=development ruby test/activity_test.rb
